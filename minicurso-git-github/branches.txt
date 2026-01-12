@@ -1,5 +1,9 @@
 git status
 
-git checkout -b nome-branch
+git checkout -b nome-branch ( criação  de ramificação )
 
-git checkout nome-branch
+git checkout nome-branch ( mudança entre ramificações )
+
+git branch ( listar as ramificações )
+
+git branch -d nome-da-branch ( deletar a ramificação )
