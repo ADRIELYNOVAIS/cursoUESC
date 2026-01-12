@@ -7,3 +7,5 @@ git checkout nome-branch ( mudança entre ramificações )
 git branch ( listar as ramificações )
 
 git branch -d nome-da-branch ( deletar a ramificação )
+
+git pull origin main ( atualização da ramificação em relação a ramificação principal a main )
