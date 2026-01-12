@@ -9,3 +9,5 @@ git branch ( listar as ramificações )
 git branch -d nome-da-branch ( deletar a ramificação )
 
 git pull origin main ( atualização da ramificação em relação a ramificação principal a main )
+
+git merge nome-da-branch ( junta as ramificações
