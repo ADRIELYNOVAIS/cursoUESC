@@ -5,3 +5,4 @@ git commit -m " adicionando um arquivo com os comandos git"
 git push 
 
 git pull
+
